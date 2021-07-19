@@ -5,12 +5,12 @@ Some of the stylized images are :
 
 Udnie :
 
-![](output_udnie.png)
+![](output_udnie.jpg)
 
 Starry Night :
 
-![](output_starry_night.png)
+![](output_starry_night.jpg)
 
 Candy :
 
-![](output_candy.png)
+![](output_candy.jpg)
